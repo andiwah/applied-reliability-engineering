@@ -1,0 +1,261 @@
+WO_ID,WO_Date,Equipment,Notes,Start,Finish,Tech,Area
+WO-550085,2024-06-27,110-p-009,checked; misalignment / coupling wear; fixed,2024-06-28 00:19,2024-06-28 09:07,Nina,Wastewater
+WO-550031,2023-07-06,TX-503,Low lube oil pressure alarm; filter found dirty; cleaned and replaced element.,,2023-07-07 00:24,Fajar,Area-200
+WO-550173,2025-11-27,TX506,trip; reset ok,,2025-11-27 07:48,Andi,Wastewater
+WO-550070,2024-05-03,LT-1723,trip - impulse issue; reset attempted,2024-05-03 19:47,2024-05-03 23:14,Budi,Utilities
+WO-650166,2024-09-23,CV-403,routine inspection done,2024-09-23 13:00,2024-09-23 15:16,Dewi,Area-100
+WO-650080,2023-10-15,PMP-109,Adjusted and verified,,2023-10-15 11:56,Budi,Area-300
+WO-550118,2024-12-25,TT 1566,Intermittent signal noise; HART comms errors; checked grounding/shield.,2024-12-25 21:31,2024-12-25 22:44,Fajar,Area-300
+WO-550081,2024-06-04,205C009B,trip - lube issue; reset attempted,2024-06-04 02:36,2024-06-04 07:32,Nina,Area-400
+WO-550152,2025-08-11,401-FV-316,checked; travel sensor / positioner fault; fixed,2025-08-11 01:59,2025-08-11 05:45,Fajar,Area-200
+WO-550039,2023-10-05,PMP-104,Bearing noise audible; grease contaminated; bearings replaced.,2023-10-05 08:13,2023-10-05 16:43,Rina,Area-300
+WO-550133,2025-05-02,103-p-006,Unit tripped on high temperature; reset unsuccessful; cooler suspected fouling.,2025-05-02 02:17,2025-05-02 05:37,Rina,Area-300
+WO-550120,2025-01-05,TX505,abnormal; repaired,2025-01-05 05:50,2025-01-05 07:26,Sari,Utilities
+WO-550002,2023-01-24,PMP-107,trip - impeller issue; reset attempted,2023-01-24 19:25,2023-01-25 04:44,Fajar,Area-400
+WO-650209,2025-02-28,PMP109,PM lube; vibration elevated; route follow-up,2025-02-28 14:00,2025-02-28 15:49,Rina,Area-300
+WO-550073,2024-05-10,111P006A,checked; cavitation damage; fixed,2024-05-10 19:54,2024-05-11 00:40,Andi,Area-100
+WO-550080,2024-06-02,111 P 006A,checked; cavitation damage; fixed,2024-06-02 10:31,2024-06-02 18:01,Budi,Area-100
+WO-550005,2023-01-31,104-P-002,checked; mechanical seal leakage; fixed,2023-01-31 21:59,,Fajar,Area-300
+WO-550097,2024-09-01,408 FV 724,inspected; ok after,2024-09-01 17:07,2024-09-01 20:19,Fajar,Area-300
+WO-650086,2023-11-10,111 P 006A,inspection completed,2023-11-10 12:00,2023-11-10 12:55,Nina,Area-100
+WO-650254,2025-10-31,109-p-002,routine seal flush check done,2025-10-31 09:00,,Rina,Area-300
+WO-650139,2024-06-21,CMP-202,Scheduled corrective work order,2024-06-21 07:00,2024-06-21 08:48,Nina,Utilities
+WO-550168,2025-11-06,312 M 009,inspected; ok after,2025-11-06 13:04,2025-11-07 03:32,Andi,Area-400
+WO-650066,2023-08-29,TX-502,Adjusted and verified,,2023-08-29 14:08,Agus,Area-400
+WO-550167,2025-10-29,PMP-102B,abnormal; repaired,2025-10-29 18:32,2025-10-30 00:54,Sari,Area-200
+WO-550114,2024-12-02,204 C 005,abnormal; repaired,2024-12-02 14:58,2024-12-02 19:41,Sari,Area-300
+WO-550077,2024-05-29,109 P 002,inspected; ok after,2024-05-29 23:21,2024-05-30 12:04,Rina,Area-300
+WO-650095,2024-01-05,113 P 004B,Adjusted and verified,,2024-01-05 09:58,Andi,Area-300
+WO-550123,2025-01-30,408 FV 724,Unit tripped on high temperature; reset unsuccessful; cooler suspected fouling.,2025-01-30 21:22,2025-01-30 23:59,Nina,Area-300
+WO-550172,2025-11-27,TX-506,inspected; ok after,2025-11-27 04:19,2025-11-27 09:14,Sari,Wastewater
+WO-550105,2024-10-15,PMP-113B,abnormal; repaired,2024-10-15 04:27,2024-10-15 07:14,Fajar,Area-300
+WO-550129,2025-04-15,114-p-003b,abnormal; repaired,2025-04-15 12:27,2025-04-15 18:16,Sari,Area-300
+WO-550157,2025-09-19,204 C 005,abnormal; repaired,2025-09-19 23:48,2025-09-20 05:13,Rina,Area-300
+WO-550162,2025-10-07,107 P 001,abnormal; repaired,2025-10-07 16:47,2025-10-07 20:25,Andi,Area-400
+WO-650112,2024-02-18,310M004,Cleaned and restored,2024-02-18 12:00,,Rina,Area-100
+WO-650140,2024-06-23,CV401,inspection completed,2024-06-23 11:00,2024-06-23 12:09,Andi,Area-200
+WO-550011,2023-03-16,FT-1270,Valve oscillation reported; signature indicates stiction; packing adjusted.,2023-03-16 15:59,2023-03-16 19:02,Dewi,Tank Farm
+WO-550147,2025-07-09,112P001,abnormal; repaired,,2025-07-09 17:16,Nina,Area-300
+WO-550048,2023-12-26,205-c-009b,Intermittent signal noise; HART comms errors; checked grounding/shield.,2023-12-26 03:11,2023-12-26 18:18,Budi,Area-400
+WO-650232,2025-07-19,203-c-009,PM oil change; no abnormality found,2025-07-19 13:00,2025-07-19 14:16,Budi,Area-100
+WO-550004,2023-01-30,PMP101A,trip - cavitation issue; reset attempted,2023-01-30 18:12,2023-01-30 23:22,Rina,Area-100
+WO-550034,2023-08-02,FT 1794,checked; impulse line plugging / restriction; fixed,2023-08-02 00:46,2023-08-02 03:20,Dewi,Wastewater
+WO-550117,2024-12-20,110 P 009,inspected; ok after,2024-12-20 06:51,2024-12-20 15:39,Sari,Wastewater
+WO-650201,2025-01-31,111-p-006a,PM inspection; ir scan indicates warm terminal; re-torqued,2025-01-31 13:00,2025-01-31 14:22,Rina,Area-100
+WO-550180,2025-12-31,407-fv-851,trip - travel issue; reset attempted,2025-12-31 07:52,2025-12-31 13:54,Fajar,Area-100
+WO-650106,2024-02-01,403 FV 584,PM packing adjust; vibration elevated; route follow-up,2024-02-01 07:00,,Dewi,Area-100
+WO-650191,2025-01-16,106-p-003,routine inspection done,2025-01-16 14:00,2025-01-16 15:03,Sari,Area-400
+WO-550178,2025-12-25,308-m-001,trip - current/voltage issue; reset attempted,2025-12-25 01:37,2025-12-25 03:48,Nina,Utilities
+WO-550014,2023-04-17,310-M-004,inspected; ok after,2023-04-17 21:55,2023-04-18 04:01,Budi,Area-100
+WO-550045,2023-11-23,MTR302,checked; bearing failure; fixed,2023-11-23 04:08,2023-11-23 10:01,Dewi,Area-100
+WO-550026,2023-06-20,CV-401,checked; packing leakage; fixed,2023-06-20 14:26,,Nina,Area-200
+WO-550154,2025-08-21,CV-408,abnormal; repaired,2025-08-21 06:14,2025-08-21 09:07,Budi,Area-300
+WO-550001,2023-01-16,302 M 002,inspected; ok after,2023-01-16 18:22,2023-01-16 22:32,Nina,Area-100
+WO-550041,2023-10-22,PMP103,inspected; ok after,2023-10-22 18:38,,Fajar,Area-300
+WO-550068,2024-04-28,MTR-312,inspected; ok after,2024-04-28 14:37,2024-04-28 19:28,Dewi,Area-400
+WO-550140,2025-06-05,114-p-003b,abnormal; repaired,2025-06-05 04:58,2025-06-05 16:21,Rina,Area-300
+WO-650047,2023-06-25,PMP102B,inspection completed,2023-06-25 08:00,,Dewi,Area-200
+WO-550169,2025-11-10,403 FV 584,Impulse line restriction found; flushed and restored response.,2025-11-10 18:54,2025-11-10 21:22,Budi,Area-100
+WO-650020,2023-02-23,305 M 006,routine megger test done,2023-02-23 08:00,,Dewi,Area-400
+WO-550051,2024-01-11,FT-1794,checked; signal noise / intermittent communication; fixed,2024-01-11 03:12,2024-01-11 06:12,Budi,Wastewater
+WO-550027,2023-06-23,MTR-307,Valve oscillation reported; signature indicates stiction; packing adjusted.,2023-06-23 11:09,,Agus,Utilities
+WO-550036,2023-08-17,FT-1270,abnormal; repaired,2023-08-17 23:37,2023-08-18 03:19,Fajar,Tank Farm
+WO-550046,2023-12-09,CV402,abnormal; repaired,2023-12-09 04:44,2023-12-09 09:29,Nina,Area-100
+WO-550126,2025-02-16,CMP-206B,inspected; ok after,2025-02-16 12:19,2025-02-16 21:18,Budi,Area-300
+WO-550100,2024-09-15,MTR-310,Loose terminal found; hot spot on IR; tightened and re-torqued connections.,2024-09-15 13:30,2024-09-15 18:19,Rina,Area-100
+WO-550151,2025-08-05,PT-1760,checked; impulse line plugging / restriction; fixed,2025-08-05 11:57,2025-08-05 13:58,Fajar,Area-400
+WO-550155,2025-08-27,112-P-001,checked; dry running / loss of suction; fixed,2025-08-27 05:56,2025-08-27 12:04,Fajar,Area-300
+WO-550131,2025-04-24,LT1723,inspected; ok after,2025-04-24 07:56,2025-04-24 12:38,Rina,Utilities
+WO-650220,2025-05-07,112-p-001,routine lube done,2025-05-07 09:00,,Sari,Area-300
+WO-550074,2024-05-11,PMP101A,inspected; ok after,2024-05-11 08:33,2024-05-11 12:47,Fajar,Area-100
+WO-650040,2023-05-22,310M004,Lubricated and rechecked,2023-05-22 14:00,2023-05-22 15:27,Sari,Area-100
+WO-650138,2024-06-16,206-C-009B,Scheduled corrective work order,2024-06-16 10:00,2024-06-16 12:10,Agus,Area-300
+WO-550063,2024-03-27,PT1587,checked; environmental ingress (moisture/corrosion); fixed,2024-03-27 05:25,2024-03-27 07:49,Rina,Tank Farm
+WO-550174,2025-11-28,206-C-009B,abnormal; repaired,,2025-11-29 07:09,Agus,Area-300
+WO-650024,2023-02-28,102-p-002b,inspection completed,2023-02-28 08:00,2023-02-28 09:36,Andi,Area-200
+WO-550150,2025-07-29,113-P-004B,Impulse line restriction found; flushed and restored response.,2025-07-29 22:45,2025-07-30 01:32,Budi,Area-300
+WO-550075,2024-05-16,PT1587,Unit tripped on high temperature; reset unsuccessful; cooler suspected fouling.,2024-05-16 10:49,2024-05-16 12:05,Agus,Tank Farm
+WO-550084,2024-06-26,402-fv-765,Observed abnormal vibration; suspected cavitation. Seal temperature elevated.,,2024-06-26 16:12,Agus,Area-100
+WO-550179,2025-12-25,pt-1760,checked; sensor element failure (rtd/tc); fixed,2025-12-25 14:49,2025-12-25 19:03,Sari,Area-400
+WO-550022,2023-06-01,303 M 005,inspected; ok after,2023-06-01 09:13,2023-06-02 01:59,Agus,Area-200
+WO-550113,2024-11-22,401-FV-316,inspected; ok after,2024-11-22 20:30,2024-11-23 00:27,Dewi,Area-200
+WO-550065,2024-04-10,PMP112,checked; cavitation damage; fixed,2024-04-10 16:20,2024-04-10 21:09,Sari,Area-300
+WO-550029,2023-06-30,108 P 004,trip - bearing issue; reset attempted,2023-06-30 07:38,2023-06-30 14:00,Sari,Area-300
+WO-650135,2024-06-01,CMP-204,routine oil change done,2024-06-01 07:00,2024-06-01 09:29,Agus,Area-300
+WO-550142,2025-06-24,203C009,abnormal; repaired,2025-06-24 23:02,2025-06-26 10:26,Fajar,Area-100
+WO-550102,2024-10-01,lt-1723,checked; calibration drift / out of tolerance; fixed,2024-10-01 02:42,,Rina,Utilities
+WO-650033,2023-05-02,TX506,Cleaned and restored,,2023-05-02 14:11,Andi,Wastewater
+WO-550090,2024-07-19,TX-507,trip - false issue; reset attempted,2024-07-19 03:51,2024-07-19 07:53,Budi,Tank Farm
+WO-550101,2024-09-27,306M009,Impulse line restriction found; flushed and restored response.,2024-09-27 09:45,2024-09-27 13:40,Fajar,Area-200
+WO-550116,2024-12-07,408 FV 724,abnormal; repaired,,2024-12-07 18:24,Rina,Area-300
+WO-650029,2023-04-16,302 M 002,routine ir scan done,2023-04-16 11:00,2023-04-16 13:15,Budi,Area-100
+WO-550062,2024-03-26,201 C 004A,Bearing noise audible; grease contaminated; bearings replaced.,2024-03-26 18:37,2024-03-27 02:03,Nina,Utilities
+WO-550134,2025-05-04,107P001,Impulse line restriction found; flushed and restored response.,2025-05-05 00:24,2025-05-05 07:53,Nina,Area-400
+WO-650156,2024-08-05,402 FV 765,Cleaned and restored,,2024-08-05 11:36,Andi,Area-100
+WO-650115,2024-02-22,407-fv-851,Lubricated and rechecked,2024-02-22 09:00,2024-02-22 09:51,Andi,Area-100
+WO-550042,2023-10-28,CMP-205B,trip - surge issue; reset attempted,,2023-10-28 17:19,Agus,Area-400
+WO-550040,2023-10-06,404-fv-210,Impulse line restriction found; flushed and restored response.,2023-10-06 07:03,2023-10-06 10:01,Agus,Area-200
+WO-650162,2024-08-29,202 C 006,PM oil change; as-found calibration error 0.6%; adjusted,2024-08-29 12:00,,Agus,Utilities
+WO-650150,2024-07-26,TX506,routine impulse line check done,,2024-07-26 13:11,Nina,Wastewater
+WO-550139,2025-05-29,CV-402,abnormal; repaired,2025-05-29 07:34,2025-05-29 10:48,Rina,Area-100
+WO-550110,2024-11-14,PT 1760,Unit tripped on high temperature; reset unsuccessful; cooler suspected fouling.,2024-11-13 23:50,2024-11-14 01:53,Nina,Area-400
+WO-550059,2024-02-23,310-M-004,Megger PI low; motor pulled for inspection; winding repair scheduled.,2024-02-23 08:42,2024-02-23 21:00,Sari,Area-100
+WO-650251,2025-10-25,108-p-004,PM seal flush check; ir scan indicates warm terminal; re-torqued,2025-10-25 14:00,2025-10-25 15:46,Andi,Area-300
+WO-550030,2023-07-06,108-p-004,abnormal; repaired,2023-07-06 05:35,2023-07-06 11:30,Budi,Area-300
+WO-650208,2025-02-25,102P002B,Scheduled corrective work order,,,Sari,Area-200
+WO-550171,2025-11-24,PMP108,inspected; ok after,2025-11-24 11:48,2025-11-24 23:03,Dewi,Area-300
+WO-650255,2025-11-06,310-m-004,Cleaned and restored,2025-11-06 14:00,2025-11-06 14:50,Dewi,Area-100
+WO-550149,2025-07-27,311-M-007,checked; insulation breakdown (winding fault); fixed,2025-07-27 20:52,2025-07-27 23:45,Nina,Area-400
+WO-550103,2024-10-05,CMP-206B,inspected; ok after,2024-10-05 03:09,2024-10-05 18:59,Sari,Area-300
+WO-550095,2024-08-14,TX-501,trip - calibration issue; reset attempted,,2024-08-14 16:08,Agus,Area-300
+WO-650004,2023-01-07,PMP-113B,inspection completed,2023-01-07 12:00,,Sari,Area-300
+WO-650260,2025-12-30,CV-404,PM inspection; minor wear observed; monitor,2025-12-30 11:00,2025-12-30 11:49,Fajar,Area-200
+WO-650031,2023-04-26,106-P-003,PM lube; oil sample shows elevated particles; changed oil,2023-04-26 12:00,2023-04-26 13:52,Agus,Area-400
+WO-650048,2023-06-25,PMP-109,PM alignment check; minor wear observed; monitor,2023-06-25 13:00,2023-06-25 14:16,Budi,Area-300
+WO-650059,2023-07-25,CV408,Adjusted and verified,2023-07-25 09:00,2023-07-25 10:24,Agus,Area-300
+WO-550144,2025-06-27,309-m-008,inspected; ok after,2025-06-27 11:13,2025-06-27 15:41,Andi,Utilities
+WO-550038,2023-09-16,403-FV-584,trip - packing issue; reset attempted,2023-09-16 04:34,2023-09-16 08:56,Rina,Area-100
+WO-650006,2023-01-17,TT1566,routine calibration done,2023-01-17 09:00,2023-01-17 09:24,Rina,Area-300
+WO-650037,2023-05-13,CV-409,Cleaned and restored,2023-05-13 10:00,2023-05-13 10:46,Agus,Area-200
+WO-550092,2024-07-21,CV-409,Unit tripped on high temperature; reset unsuccessful; cooler suspected fouling.,2024-07-21 08:40,2024-07-21 13:13,Fajar,Area-200
+WO-550083,2024-06-13,307-M-004,trip - terminal/connection issue; reset attempted,2024-06-13 08:45,2024-06-13 17:42,Rina,Utilities
+WO-650187,2024-12-24,401FV316,routine positioner check done,2024-12-24 10:00,2024-12-24 11:37,Sari,Area-200
+WO-550035,2023-08-02,TT-1566,inspected; ok after,2023-08-02 09:19,2023-08-02 11:29,Agus,Area-300
+WO-650247,2025-10-04,305-M-006,routine inspection done,2025-10-04 11:00,2025-10-04 12:37,Agus,Area-400
+WO-550170,2025-11-13,309M008,Bearing noise audible; grease contaminated; bearings replaced.,2025-11-13 20:10,,Sari,Utilities
+WO-650233,2025-07-23,FT-1270,Cleaned and restored,2025-07-23 11:00,2025-07-23 11:18,Andi,Tank Farm
+WO-550175,2025-12-04,MTR-302,abnormal; repaired,,2025-12-04 07:04,Dewi,Area-100
+WO-550138,2025-05-21,TT-1503,trip - calibration issue; reset attempted,2025-05-21 07:00,2025-05-21 10:02,Sari,Utilities
+WO-650074,2023-09-26,112-P-001,routine inspection done,2023-09-26 10:00,2023-09-26 11:00,Sari,Area-300
+WO-550067,2024-04-25,107-P-001,trip - mechanical issue; reset attempted,2024-04-25 09:27,2024-04-25 14:25,Andi,Area-400
+WO-550017,2023-05-10,CMP201A,checked; lube oil pressure low / contamination; fixed,2023-05-10 00:51,2023-05-10 09:14,Andi,Utilities
+WO-650160,2024-08-25,PMP-113B,routine lube done,,2024-08-25 13:46,Fajar,Area-300
+WO-650205,2025-02-16,305-M-006,routine megger test done,2025-02-16 11:00,2025-02-16 12:19,Budi,Area-400
+WO-650070,2023-09-07,PMP101A,Cleaned and restored,2023-09-07 09:00,,Andi,Area-100
+WO-650062,2023-07-31,TX505,routine loop check done,,,Nina,Utilities
+WO-650044,2023-06-16,206-c-009b,Cleaned and restored,2023-06-16 12:00,2023-06-16 15:18,Andi,Area-300
+WO-650185,2024-12-16,302-m-002,Cleaned and restored,,2024-12-16 13:55,Agus,Area-100
+WO-550020,2023-05-20,CV404,trip - stiction issue; reset attempted,2023-05-20 21:11,2023-05-20 22:35,Fajar,Area-200
+WO-550091,2024-07-20,111-P-006A,trip - mechanical issue; reset attempted,2024-07-20 18:03,2024-07-20 22:20,Nina,Area-100
+WO-550166,2025-10-24,311 M 007,Bearing noise audible; grease contaminated; bearings replaced.,2025-10-24 05:20,2025-10-24 19:28,Dewi,Area-400
+WO-650188,2024-12-25,309-M-008,inspection completed,2024-12-25 13:00,2024-12-25 13:18,Fajar,Utilities
+WO-550176,2025-12-05,FT-1369,abnormal; repaired,2025-12-05 21:41,2025-12-06 01:45,Budi,Area-200
+WO-550044,2023-11-14,110-P-009,checked; dry running / loss of suction; fixed,2023-11-14 15:29,2023-11-14 18:27,Dewi,Wastewater
+WO-550098,2024-09-05,308-M-001,Observed abnormal vibration; suspected cavitation. Seal temperature elevated.,,,Dewi,Utilities
+WO-550108,2024-10-30,304 M 009,trip - current/voltage issue; reset attempted,2024-10-30 12:16,2024-10-30 22:14,Andi,Area-300
+WO-550115,2024-12-05,310 M 004,Loose terminal found; hot spot on IR; tightened and re-torqued connections.,2024-12-05 10:20,2024-12-05 17:28,Agus,Area-100
+WO-550158,2025-09-21,302-m-002,checked; vfd-related stress / bearing fluting; fixed,2025-09-21 06:07,2025-09-21 17:49,Rina,Area-100
+WO-550130,2025-04-22,104-P-002,inspected; ok after,2025-04-22 10:37,2025-04-22 22:11,Dewi,Area-300
+WO-650178,2024-10-27,ft-1270,routine loop check done,2024-10-27 10:00,2024-10-27 12:15,Agus,Tank Farm
+WO-550086,2024-07-02,112P001,trip - impeller issue; reset attempted,2024-07-02 21:36,2024-07-03 07:13,Fajar,Area-300
+WO-550160,2025-09-27,310M004,checked; terminal/connection looseness; fixed,2025-09-28 00:05,2025-09-28 12:14,Budi,Area-100
+WO-550136,2025-05-10,304-M-009,abnormal; repaired,,2025-05-11 03:23,Rina,Area-300
+WO-650236,2025-08-04,408-FV-724,Lubricated and rechecked,2025-08-04 09:00,2025-08-04 10:44,Fajar,Area-300
+WO-550052,2024-01-17,110 P 009,Observed abnormal vibration; suspected cavitation. Seal temperature elevated.,2024-01-17 02:41,2024-01-17 07:27,Budi,Wastewater
+WO-550053,2024-01-21,MTR308,trip - current/voltage issue; reset attempted,2024-01-21 13:22,2024-01-21 21:13,Andi,Utilities
+WO-650107,2024-02-09,CV-405,routine signature test done,2024-02-09 07:00,2024-02-09 07:19,Dewi,Area-300
+WO-650206,2025-02-19,CV-407,Adjusted and verified,,2025-02-19 10:34,Budi,Area-100
+WO-650146,2024-07-18,CMP-203,inspection completed,2024-07-18 14:00,2024-07-18 15:57,Agus,Area-100
+WO-550049,2024-01-03,103-p-006,trip; reset ok,2024-01-03 14:44,2024-01-03 18:26,Dewi,Area-300
+WO-550135,2025-05-09,203-C-009,inspected; ok after,2025-05-09 21:54,2025-05-10 01:11,Fajar,Area-100
+WO-550148,2025-07-19,109P002,abnormal; repaired,2025-07-19 16:14,2025-07-19 22:07,Rina,Area-300
+WO-550094,2024-07-30,308-M-001,inspected; ok after,2024-07-30 23:38,2024-07-31 06:08,Nina,Utilities
+WO-650078,2023-10-09,MTR305,Calibrated and sealed,2023-10-09 10:00,,Dewi,Area-400
+WO-550072,2024-05-10,TX-507,inspected; issue corrected,2024-05-10 05:25,2024-05-10 07:29,Agus,Tank Farm
+WO-550003,2023-01-26,CV409,abnormal; repaired,2023-01-26 14:48,2023-01-26 17:59,Budi,Area-200
+WO-550071,2024-05-06,206 C 009B,abnormal; repaired,2024-05-06 22:03,2024-05-07 05:36,Dewi,Area-300
+WO-650199,2025-01-23,404FV210,routine inspection done,2025-01-23 12:00,2025-01-23 13:18,Rina,Area-200
+WO-650008,2023-01-24,402FV765,inspection completed,,,Andi,Area-100
+WO-550076,2024-05-16,406-fv-969,trip - stiction issue; reset attempted,2024-05-16 20:16,2024-05-16 23:28,Nina,Area-100
+WO-550024,2023-06-02,112-p-001,Bearing noise audible; grease contaminated; bearings replaced.,2023-06-02 21:20,2023-06-03 08:43,Dewi,Area-300
+WO-650014,2023-02-10,CV403,Inspected and recorded baseline,2023-02-10 08:00,2023-02-10 08:18,Rina,Area-100
+WO-550079,2024-06-02,309M008,abnormal; repaired,,2024-06-02 12:51,Agus,Utilities
+WO-650179,2024-10-28,FT1369,PM inspection; vibration elevated; route follow-up,,2024-10-28 08:19,Budi,Area-200
+WO-550008,2023-02-08,TX-508,trip - signal issue; reset attempted,2023-02-08 11:40,2023-02-08 13:28,Sari,Utilities
+WO-550107,2024-10-24,404 FV 210,Loose terminal found; hot spot on IR; tightened and re-torqued connections.,2024-10-24 05:41,2024-10-24 12:19,Agus,Area-200
+WO-550156,2025-09-14,405-FV-891,checked; travel sensor / positioner fault; fixed,2025-09-14 04:44,2025-09-14 12:46,Agus,Area-300
+WO-550177,2025-12-11,308 M 001,checked; insulation breakdown (winding fault); fixed,2025-12-11 08:29,2025-12-11 10:24,Agus,Utilities
+WO-550010,2023-03-03,408 FV 724,checked; actuator air supply issue; fixed,2023-03-03 17:36,2023-03-04 00:07,Nina,Area-300
+WO-550021,2023-05-30,CV-401,abnormal; repaired,2023-05-30 11:00,2023-05-30 14:36,Budi,Area-200
+WO-550088,2024-07-03,MTR-301,Bearing noise audible; grease contaminated; bearings replaced.,2024-07-03 14:05,2024-07-04 01:13,Budi,Area-400
+WO-550019,2023-05-13,305 M 006,abnormal; repaired,2023-05-13 04:00,2023-05-13 09:59,Budi,Area-400
+WO-650182,2024-11-08,PT-1587,inspection completed,2024-11-08 07:00,2024-11-08 08:23,Dewi,Tank Farm
+WO-650049,2023-06-30,CV401,inspection completed,2023-06-30 14:00,2023-06-30 14:33,Sari,Area-200
+WO-650164,2024-09-17,101-P-009A,inspection completed,2024-09-17 13:00,2024-09-17 15:24,Budi,Area-100
+WO-550082,2024-06-06,PMP113B,inspected; ok after,2024-06-06 00:41,2024-06-06 04:09,Budi,Area-300
+WO-550006,2023-02-01,109-p-002,checked; mechanical seal leakage; fixed,2023-02-01 08:32,2023-02-01 14:42,Agus,Area-300
+WO-550089,2024-07-06,109-P-002,trip - impeller issue; reset attempted,2024-07-06 16:29,2024-07-07 06:11,Dewi,Area-300
+WO-550056,2024-02-13,410-FV-828,abnormal; repaired,2024-02-13 12:17,2024-02-13 16:58,Agus,Area-300
+WO-550128,2025-03-13,103 P 006,trip - dry issue; reset attempted,2025-03-13 11:49,2025-03-13 19:10,Agus,Area-300
+WO-550093,2024-07-25,MTR-311,checked; bearing failure; fixed,2024-07-25 20:57,2024-07-26 00:46,Fajar,Area-400
+WO-550060,2024-03-02,CV404,inspected; ok after,2024-03-02 18:44,2024-03-03 01:24,Agus,Area-200
+WO-650053,2023-07-09,CV404,Inspected and recorded baseline,2023-07-09 14:00,2023-07-09 14:18,Budi,Area-200
+WO-550161,2025-10-05,410-FV-828,inspected; issue corrected,2025-10-05 20:09,2025-10-05 22:27,Rina,Area-300
+WO-650177,2024-10-27,201-C-004A,inspection completed,2024-10-27 08:00,2024-10-27 11:07,Nina,Utilities
+WO-650159,2024-08-23,407 FV 851,routine signature test done,2024-08-23 10:00,,Rina,Area-100
+WO-550106,2024-10-22,108P004,trip - cavitation issue; reset attempted,2024-10-22 14:01,2024-10-22 18:55,Agus,Area-300
+WO-550061,2024-03-19,111-p-006a,inspected; ok after,2024-03-19 10:43,2024-03-19 13:42,Sari,Area-100
+WO-650089,2023-12-18,CV-401,routine packing adjust done,,2023-12-18 15:57,Budi,Area-200
+WO-650126,2024-04-22,CMP205B,routine oil change done,2024-04-22 08:00,2024-04-22 09:33,Agus,Area-400
+WO-650114,2024-02-20,206-C-009B,routine filter change done,,2024-02-20 15:34,Nina,Area-300
+WO-550028,2023-06-28,FT-1794,abnormal; repaired,2023-06-28 16:40,2023-06-28 19:39,Sari,Wastewater
+WO-550104,2024-10-05,PMP107,Observed abnormal vibration; suspected cavitation. Seal temperature elevated.,2024-10-05 14:29,2024-10-05 21:29,Fajar,Area-400
+WO-550023,2023-06-02,109 P 002,checked; bearing degradation / failure; fixed,,2023-06-02 17:58,Agus,Area-300
+WO-550099,2024-09-11,108 P 004,inspected; ok after,2024-09-11 23:21,2024-09-12 03:24,Sari,Area-300
+WO-650045,2023-06-18,305 M 006,routine inspection done,2023-06-18 09:00,2023-06-18 09:18,Nina,Area-400
+WO-650213,2025-04-07,MTR311,routine bearing grease done,2025-04-07 10:00,2025-04-07 10:32,Rina,Area-400
+WO-550112,2024-11-15,TT1503,abnormal; repaired,,2024-11-15 20:22,Budi,Utilities
+WO-550153,2025-08-15,PT 1587,trip - signal issue; reset attempted,2025-08-15 04:41,2025-08-15 09:09,Budi,Tank Farm
+WO-550145,2025-06-29,305M006,inspected; ok after,2025-06-29 16:29,2025-06-29 23:00,Sari,Area-400
+WO-550055,2024-02-02,TT-1566,Valve oscillation reported; signature indicates stiction; packing adjusted.,2024-02-02 22:15,2024-02-03 00:52,Fajar,Area-300
+WO-650010,2023-02-05,TT1503,inspection completed,,2023-02-05 10:04,Sari,Utilities
+WO-550064,2024-03-27,105 P 006A,inspected; ok after,2024-03-27 21:39,2024-03-28 05:16,Dewi,Utilities
+WO-650238,2025-08-06,410-fv-828,PM positioner check; filter differential pressure high; cleaned,,2025-08-06 13:56,Budi,Area-300
+WO-550124,2025-02-11,404-FV-210,checked; stiction / sticking; fixed,2025-02-11 08:01,2025-02-11 13:12,Sari,Area-200
+WO-550078,2024-05-30,TT-1566,inspected; ok after,2024-05-30 09:26,2024-05-30 11:50,Andi,Area-300
+WO-550050,2024-01-10,TX503,trip - false issue; reset attempted,2024-01-10 11:08,2024-01-10 12:52,Budi,Area-200
+WO-550137,2025-05-12,MTR-310,trip - insulation issue; reset attempted,2025-05-12 20:29,2025-05-13 02:10,Rina,Area-100
+WO-550012,2023-03-29,110-p-009,trip - impeller issue; reset attempted,,2023-03-29 19:44,Fajar,Wastewater
+WO-550043,2023-11-09,103P006,Valve oscillation reported; signature indicates stiction; packing adjusted.,2023-11-09 10:49,2023-11-10 02:19,Rina,Area-300
+WO-550109,2024-11-01,312-m-009,checked; terminal/connection looseness; fixed,2024-11-01 18:41,2024-11-02 01:56,Budi,Area-400
+WO-550007,2023-02-04,MTR-303,Observed abnormal vibration; suspected cavitation. Seal temperature elevated.,2023-02-04 02:47,2023-02-04 07:24,Dewi,Area-200
+WO-550146,2025-07-05,106P003,Megger PI low; motor pulled for inspection; winding repair scheduled.,2025-07-05 14:08,2025-07-05 18:55,Budi,Area-400
+WO-650013,2023-02-10,206-C-009B,Lubricated and rechecked,2023-02-10 10:00,,Dewi,Area-300
+WO-650046,2023-06-23,CV-405,inspection completed,,2023-06-23 08:38,Agus,Area-300
+WO-650055,2023-07-12,302-m-002,Cleaned and restored,2023-07-12 07:00,2023-07-12 08:51,Fajar,Area-100
+WO-550165,2025-10-22,FT 1270,abnormal; repaired,2025-10-22 06:11,2025-10-22 08:47,Agus,Tank Farm
+WO-550087,2024-07-03,410-FV-828,abnormal; repaired,2024-07-03 09:22,2024-07-03 12:02,Andi,Area-300
+WO-550032,2023-07-13,106-P-003,abnormal; repaired,2023-07-13 07:32,2023-07-13 13:57,Budi,Area-400
+WO-550037,2023-09-04,306M009,Bearing noise audible; grease contaminated; bearings replaced.,2023-09-04 03:32,2023-09-04 12:02,Fajar,Area-200
+WO-550015,2023-04-27,pt-1587,Bearing noise audible; grease contaminated; bearings replaced.,2023-04-27 00:26,,Agus,Tank Farm
+WO-550057,2024-02-16,CV404,inspected; ok after,2024-02-16 21:56,2024-02-17 00:14,Budi,Area-200
+WO-550159,2025-09-21,301M004,checked; bearing failure; fixed,2025-09-21 17:09,2025-09-22 07:31,Rina,Area-400
+WO-550127,2025-03-13,311M007,Impulse line restriction found; flushed and restored response.,2025-03-13 09:42,2025-03-13 21:37,Rina,Area-400
+WO-550111,2024-11-14,PMP110,checked; mechanical seal leakage; fixed,2024-11-14 21:06,2024-11-15 06:53,Nina,Wastewater
+WO-650036,2023-05-12,TX-503,inspection completed,2023-05-12 13:00,2023-05-12 13:27,Andi,Area-200
+WO-650103,2024-01-31,106-p-003,routine inspection done,,2024-01-31 08:59,Nina,Area-400
+WO-550018,2023-05-12,FT1794,abnormal; repaired,2023-05-12 13:26,2023-05-12 15:34,Rina,Wastewater
+WO-550013,2023-04-09,101-P-009A,trip - bearing issue; reset attempted,2023-04-09 18:22,2023-04-10 01:04,Nina,Area-100
+WO-550025,2023-06-20,TT1566,trip - environmental issue; reset attempted,2023-06-20 09:59,2023-06-20 14:21,Nina,Area-300
+WO-550125,2025-02-13,405-FV-891,trip - stiction issue; reset attempted,2025-02-13 05:35,2025-02-13 10:33,Dewi,Area-300
+WO-550163,2025-10-07,405-FV-891,inspected; ok after,2025-10-07 17:31,2025-10-07 22:00,Nina,Area-300
+WO-550141,2025-06-12,110P009,trip - dry issue; reset attempted,2025-06-12 12:15,2025-06-12 14:54,Rina,Wastewater
+WO-650137,2024-06-08,110 P 009,PM inspection; filter differential pressure high; cleaned,2024-06-08 11:00,,Nina,Wastewater
+WO-550009,2023-02-08,MTR-311,abnormal; repaired,2023-02-08 21:06,,Nina,Area-400
+WO-550047,2023-12-22,LT1723,checked; calibration drift / out of tolerance; fixed,2023-12-22 19:19,2023-12-22 20:53,Rina,Utilities
+WO-650052,2023-07-03,101 P 009A,routine lube done,2023-07-03 11:00,2023-07-03 11:18,Sari,Area-100
+WO-650245,2025-09-12,CV-403,PM positioner check; no abnormality found,2025-09-12 13:00,2025-09-12 14:07,Rina,Area-100
+WO-550119,2024-12-26,TX-505,Loose terminal found; hot spot on IR; tightened and re-torqued connections.,2024-12-26 11:33,2024-12-26 16:29,Fajar,Utilities
+WO-550058,2024-02-20,114-P-003B,inspected; ok after,2024-02-20 22:41,2024-02-21 04:29,Agus,Area-300
+WO-550054,2024-02-01,203-c-009,checked; overheat trip; fixed,,2024-02-01 17:05,Nina,Area-100
+WO-550143,2025-06-26,301M004,trip - overload issue; reset attempted,2025-06-26 09:44,2025-06-26 13:20,Agus,Area-400
+WO-550066,2024-04-20,TX504,Megger PI low; motor pulled for inspection; winding repair scheduled.,2024-04-20 09:37,2024-04-20 16:18,Andi,Tank Farm
+WO-550016,2023-05-09,PMP108,Low lube oil pressure alarm; filter found dirty; cleaned and replaced element.,,2023-05-10 03:59,Budi,Area-300
+WO-550121,2025-01-06,MTR-309,inspected; ok after,2025-01-06 19:34,2025-01-06 22:42,Fajar,Utilities
+WO-550122,2025-01-22,107-P-001,checked; bearing degradation / failure; fixed,2025-01-22 19:55,2025-01-23 01:13,Sari,Area-400
+WO-550069,2024-04-29,CV410,trip - stiction issue; reset attempted,2024-04-29 21:27,2024-04-30 04:34,Agus,Area-300
+WO-550164,2025-10-14,CV-401,Low lube oil pressure alarm; filter found dirty; cleaned and replaced element.,2025-10-14 22:02,2025-10-15 01:38,Budi,Area-200
+WO-650128,2024-04-29,111 P 006A,routine lube done,2024-04-29 09:00,,Budi,Area-100
+WO-550096,2024-08-30,pt-1587,abnormal; repaired,2024-08-30 07:07,2024-08-30 10:50,Budi,Tank Farm
+WO-550033,2023-07-25,MTR307,abnormal; repaired,2023-07-25 13:01,2023-07-25 17:09,Agus,Utilities
+WO-550132,2025-04-29,PMP-108,trip - misalignment issue; reset attempted,2025-04-29 22:18,2025-04-30 03:07,Fajar,Area-300
