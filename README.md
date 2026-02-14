@@ -24,25 +24,10 @@ evolve with additional examples and updates
 
 The materials are structured to bridge theory and application, allowing readers to move directly from concepts to implementation.
 
-📂 Repository Structure
-applied-reliability-engineering/
-│
-├── datasets/
-│   Core datasets used across chapters
-│
-├── excel_templates/
-│   Excel tools and calculation workbooks
-│
-├── notebooks/
-│   Python / Jupyter Notebook examples
-│
-├── r_scripts/
-│   R-based reliability analysis scripts
-│
-└── docs/
-    Additional documentation and guides
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/339e4254-dae8-40e6-ac16-640fd97c26f6" />
 
 📊 Datasets Overview
+
 1️⃣ Reliability Companion Dataset
 
 File: Reliability_Companion_Dataset.xlsx
@@ -172,8 +157,6 @@ Educational and professional development purposes
 You may use and adapt the datasets internally within your organization.
 
 Redistribution of modified versions should retain attribution.
-
-(You may later replace this section with a formal license such as MIT or Creative Commons if desired.)
 
 👤 Author
 
