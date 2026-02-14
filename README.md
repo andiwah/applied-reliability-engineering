@@ -3,6 +3,10 @@
 This repository contains datasets, templates, and notebooks 
 used throughout the book.
 
+## Industrial Data Transformation Series
+- Raw Work Orders — Messy Dataset
+- Structured Work Orders Dataset
+
 ## Datasets
 - Reliability Companion Dataset
 - CLEAR Failure Events
