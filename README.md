@@ -12,6 +12,8 @@ used throughout the book.
 - CLEAR Failure Events
 - Weibull Excel Workbook
 - Minitab Starter Dataset
+- Python Notebook
+- R Script
 
 ## How to Use
 Download files and follow exercises in the book.
