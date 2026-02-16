@@ -16,7 +16,7 @@ used throughout the book.
 - R Script
 
 ## How to Use
-Download files and follow exercises in the book.
+Download files or use Codespace and follow exercises in the book.
 
 ## License
 Educational use permitted.
