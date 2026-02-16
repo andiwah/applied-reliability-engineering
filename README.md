@@ -7,7 +7,7 @@ used throughout the book.
 - Raw Work Orders — Messy Dataset
 - Structured Work Orders Dataset
 
-## Datasets
+## Data Science
 - Reliability Companion Dataset
 - CLEAR Failure Events
 - Weibull Excel Workbook
@@ -16,7 +16,7 @@ used throughout the book.
 - R Script
 
 ## How to Use
-Download files or use Codespace and follow exercises in the book.
+Download files or use Codespaces and follow exercises in the book.
 
 ## License
 Educational use permitted.
