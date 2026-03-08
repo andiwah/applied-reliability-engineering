@@ -1,10 +1,10 @@
-# Applied Reliability Engineering — Companion Resources
+# Applied Reliability Engineering - Companion Resources
 
 This repository contains datasets, templates, and notebooks 
 used throughout the book.
 
 ## Industrial Data Transformation Series
-- Raw Work Orders — Messy Dataset
+- Raw Work Orders: Messy Dataset
 - Structured Work Orders Dataset
 
 ## Data Science
