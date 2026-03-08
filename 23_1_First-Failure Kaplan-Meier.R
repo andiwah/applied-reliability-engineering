@@ -1,6 +1,6 @@
 # =========================
 # First-Failure Kaplan–Meier (KM)
-# Use 5_3_Failure_Events_CLEAR_Enhanced.xlsx
+# Use 10_3_Failure_Events_CLEAR_Enhanced.xlsx
 # =========================
 
 # Install once if needed:
@@ -16,7 +16,7 @@ library(survminer)
 library(openxlsx)
 
 # Paste URL Raw if you use GitHub Codespaces
-DATA_FILE <- "/workspaces/applied-reliability-engineering/5_3_Failure_Events_CLEAR_Enhanced.xlsx"
+DATA_FILE <- "/workspaces/applied-reliability-engineering/10_3_Failure_Events_CLEAR_Enhanced.xlsx"
 
 # Load data
 # DATA_FILE <- read.xlsx(file_path)
@@ -125,4 +125,5 @@ ggsave("KM_23_1_first_failure_by_population.png", p_g$plot, dpi = 300, width = 7
 
 # Log-rank test (same as pval)
 survdiff(Surv(time, status) ~ group, data = km_ff_g)
+
 
